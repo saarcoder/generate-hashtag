@@ -1,2 +1,3 @@
 # generate-hashtag
-Transform string into Hashtag
+## Description
+Mini function to transform string into hashtag. Does not remove punctuation.
